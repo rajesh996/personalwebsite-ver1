@@ -12,7 +12,7 @@ All the images used in this website are taken directly from the Internet.
 
 So, there is no confusion in searching for images or about the paths where they are kept and all like that.
 
-This There are internal links embedded in almost all the pages of the website so that the navigation from top to bottom or from top of the 
+This There are internal links embedded in all the pages of the website so that the navigation from top to bottom or from top of the 
 page to a specific portion can be easily done by just clicking on the name of that section.
 
 
